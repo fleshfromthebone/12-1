@@ -19,3 +19,7 @@ There are more ways to work with it than it looks, you can also call a function 
 
 ### REMINDER FOR FUTURE SELF SCRAMBLING THROUGH NOTES
 You can see an example of doing this code in your `firstblood` repo in the `index.js` file, until you move that to the code safe.
+
+## BOOMSTICK THEORY
+
+When assembling a piece of furntiture made of boomsticks, Some barrels should be filled with blanks that mimic the actual shot, that way the machine does not explode itself.
